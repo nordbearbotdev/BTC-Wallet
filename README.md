@@ -1,4 +1,4 @@
-# ReconWallet
+# WorsWallet
 Это краткая документация по боту.
 
 
